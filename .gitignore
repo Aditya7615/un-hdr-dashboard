@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+portfolio-app/node_modules/
+
+# Build outputs
+dist/
+portfolio-app/dist/
+
+# Angular
+.angular/
+.vercel/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
