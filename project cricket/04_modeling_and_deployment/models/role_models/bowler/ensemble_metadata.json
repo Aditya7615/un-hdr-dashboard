@@ -1,0 +1,20 @@
+{
+  "model": "Ensemble",
+  "features": [
+    "wickets",
+    "matches",
+    "bowling_average",
+    "economy_rate",
+    "bowling_strike_rate",
+    "catches",
+    "career_matches",
+    "seasons_played",
+    "career_catches"
+  ],
+  "r2_score": 0.9526661310898208,
+  "mae": 0.08897109752416059,
+  "rmse": 0.13668200559475152,
+  "blend_weight": 0.32,
+  "train_samples": 761,
+  "test_samples": 191
+}

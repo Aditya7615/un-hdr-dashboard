@@ -1,5 +1,5 @@
 # Generated files (can be regenerated from raw data + notebooks)
-03_eda_cleaned/*.csv
+# Committed for deployment; regenerate by running scripts/train_all_models.py
 
 # OS files
 .DS_Store
