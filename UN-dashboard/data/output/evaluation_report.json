@@ -1,0 +1,67 @@
+{
+  "consistency_metric": {
+    "score": 5,
+    "label": "5/5",
+    "description": "Numerical value stability across repeated extractions"
+  },
+  "completeness_metric": {
+    "completeness_score": 5.0,
+    "missing_top_level_keys": [],
+    "missing_indicator_keys": [],
+    "null_elements": [],
+    "completeness_ratio": 1.0
+  },
+  "factual_alignment": {
+    "factual_accuracy_score": 4.0,
+    "hallucination_risk": "low",
+    "confidence_interval": [
+      0.85,
+      0.95
+    ]
+  },
+  "tradeoff_analysis": [
+    {
+      "label": "Precise (T=0.05)",
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.05,
+      "execution_time_s": 0.0,
+      "estimated_tokens": 729,
+      "completeness": {
+        "completeness_score": 5.0,
+        "missing_top_level_keys": [],
+        "missing_indicator_keys": [],
+        "null_elements": [],
+        "completeness_ratio": 1.0
+      }
+    },
+    {
+      "label": "Creative (T=0.50)",
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.5,
+      "execution_time_s": 0.0,
+      "estimated_tokens": 729,
+      "completeness": {
+        "completeness_score": 5.0,
+        "missing_top_level_keys": [],
+        "missing_indicator_keys": [],
+        "null_elements": [],
+        "completeness_ratio": 1.0
+      }
+    },
+    {
+      "label": "Fast-8B (T=0.05)",
+      "model": "llama-3.1-8b-instant",
+      "temperature": 0.05,
+      "execution_time_s": 0.0,
+      "estimated_tokens": 729,
+      "completeness": {
+        "completeness_score": 5.0,
+        "missing_top_level_keys": [],
+        "missing_indicator_keys": [],
+        "null_elements": [],
+        "completeness_ratio": 1.0
+      }
+    }
+  ],
+  "overall_quality_score": 93.3
+}

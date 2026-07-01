@@ -1,0 +1,707 @@
+{
+  "total_students": 117,
+  "assignments": [
+    {
+      "student_name": "Abdulsalam, Ibrahim Olayinka",
+      "student_id": "308118",
+      "country": "Afghanistan",
+      "year": "2020"
+    },
+    {
+      "student_name": "Abid, Muhammad Nabeel",
+      "student_id": "311267",
+      "country": "Mongolia",
+      "year": "2000"
+    },
+    {
+      "student_name": "Acharya, Gaurav",
+      "student_id": "313579",
+      "country": "Tajikistan",
+      "year": "2011"
+    },
+    {
+      "student_name": "Addanki, Diamond Mary Apple",
+      "student_id": "308623",
+      "country": "Iraq",
+      "year": ""
+    },
+    {
+      "student_name": "Ahmad, Muzamil",
+      "student_id": "313571",
+      "country": "Panama",
+      "year": ""
+    },
+    {
+      "student_name": "Ajayi, Israel",
+      "student_id": "308119",
+      "country": "China",
+      "year": "2019"
+    },
+    {
+      "student_name": "Akauba, Augustine",
+      "student_id": "301860",
+      "country": "Bahrain",
+      "year": "2018"
+    },
+    {
+      "student_name": "Akram, MUhammad Usama",
+      "student_id": "313327",
+      "country": "Dominican",
+      "year": ""
+    },
+    {
+      "student_name": "Alam, Musa",
+      "student_id": "308486",
+      "country": "South",
+      "year": ""
+    },
+    {
+      "student_name": "Amber, Sana",
+      "student_id": "301470",
+      "country": "Sierra",
+      "year": ""
+    },
+    {
+      "student_name": "Angamuthu Chandrasekar, Rohit",
+      "student_id": "307694",
+      "country": "Kazakhstan",
+      "year": "2019"
+    },
+    {
+      "student_name": "Anilkumar Vemali, Pampapathi",
+      "student_id": "305867",
+      "country": "Turkey",
+      "year": "2008"
+    },
+    {
+      "student_name": "Antony Alfred, Dankstan",
+      "student_id": "307914",
+      "country": "Philippines",
+      "year": "2012"
+    },
+    {
+      "student_name": "Arafat, Md Al-",
+      "student_id": "274518",
+      "country": "Malaysia",
+      "year": ""
+    },
+    {
+      "student_name": "Arif, Samia",
+      "student_id": "305941",
+      "country": "Morocco",
+      "year": ""
+    },
+    {
+      "student_name": "Arooj, Qumrish",
+      "student_id": "311217",
+      "country": "Algeria",
+      "year": ""
+    },
+    {
+      "student_name": "Ashraf, Nadeem",
+      "student_id": "313860",
+      "country": "Myanmar",
+      "year": ""
+    },
+    {
+      "student_name": "Avinash, .",
+      "student_id": "311651",
+      "country": "Uganda",
+      "year": ""
+    },
+    {
+      "student_name": "Azeem, Muhammad",
+      "student_id": "250340",
+      "country": "Albania",
+      "year": "2010"
+    },
+    {
+      "student_name": "Azeem, Muhammad",
+      "student_id": "307870",
+      "country": "Thailand",
+      "year": "2014"
+    },
+    {
+      "student_name": "Babar, Muhammad Maaz Ullah",
+      "student_id": "309707",
+      "country": "Montenegro",
+      "year": "2020"
+    },
+    {
+      "student_name": "Baig, Muhammad",
+      "student_id": "314829",
+      "country": "Kenya",
+      "year": "2013"
+    },
+    {
+      "student_name": "Bandi, Sireesha",
+      "student_id": "315878",
+      "country": "Moldova",
+      "year": ""
+    },
+    {
+      "student_name": "Batool, Hibba",
+      "student_id": "308919",
+      "country": "Malawi",
+      "year": "2021"
+    },
+    {
+      "student_name": "Behzad, Mohammad",
+      "student_id": "313801",
+      "country": "Bangladesh",
+      "year": ""
+    },
+    {
+      "student_name": "Bhatti, Muhammad",
+      "student_id": "277285",
+      "country": "Egypt",
+      "year": ""
+    },
+    {
+      "student_name": "Bhavana Prasad, .",
+      "student_id": "309607",
+      "country": "Albania",
+      "year": "2016"
+    },
+    {
+      "student_name": "Cheema, Bilal Ahmad",
+      "student_id": "309512",
+      "country": "Brazil",
+      "year": ""
+    },
+    {
+      "student_name": "Dhakshanamurthy, Guhan",
+      "student_id": "314879",
+      "country": "Nicaragua",
+      "year": ""
+    },
+    {
+      "student_name": "Dlima, Priston",
+      "student_id": "313380",
+      "country": "Senegal",
+      "year": ""
+    },
+    {
+      "student_name": "Doddaballapura Raju, Vineeth",
+      "student_id": "307281",
+      "country": "Cambodia",
+      "year": "2019"
+    },
+    {
+      "student_name": "doresamy, yogeshwaran",
+      "student_id": "263223",
+      "country": "Serbia",
+      "year": "2008"
+    },
+    {
+      "student_name": "Final, Sarah",
+      "student_id": "311498",
+      "country": "Indonesia",
+      "year": ""
+    },
+    {
+      "student_name": "Fu, Renjie",
+      "student_id": "308711",
+      "country": "Kyrgyzstan",
+      "year": ""
+    },
+    {
+      "student_name": "Ganagani, Sai Charan",
+      "student_id": "309836",
+      "country": "Somalia",
+      "year": "2012"
+    },
+    {
+      "student_name": "Garlapati, Srikar Reddy",
+      "student_id": "315964",
+      "country": "Montenegro",
+      "year": "2016"
+    },
+    {
+      "student_name": "Govardhane, Akash",
+      "student_id": "298723",
+      "country": "Lebanon",
+      "year": ""
+    },
+    {
+      "student_name": "Govindappa, Ekanth",
+      "student_id": "307292",
+      "country": "Serbia",
+      "year": "2022"
+    },
+    {
+      "student_name": "Gowd, Alasyam Girish",
+      "student_id": "312594",
+      "country": "Ukraine",
+      "year": "2007"
+    },
+    {
+      "student_name": "Gundre, Jeevani",
+      "student_id": "316597",
+      "country": "Kazakhstan",
+      "year": "2016"
+    },
+    {
+      "student_name": "Gupta, Abhishek",
+      "student_id": "318061",
+      "country": "Kuwait",
+      "year": ""
+    },
+    {
+      "student_name": "Gurrala, Laxmi",
+      "student_id": "302399",
+      "country": "Kazakhstan",
+      "year": "2009"
+    },
+    {
+      "student_name": "Hamza, Muhammad",
+      "student_id": "314081",
+      "country": "Cameroon",
+      "year": ""
+    },
+    {
+      "student_name": "Haqyar, Aziz",
+      "student_id": "308898",
+      "country": "Turkey",
+      "year": "2001"
+    },
+    {
+      "student_name": "Hasan, Md Sajid",
+      "student_id": "307863",
+      "country": "Iran",
+      "year": ""
+    },
+    {
+      "student_name": "Hoang, Tien Dat",
+      "student_id": "301836",
+      "country": "Vietnam",
+      "year": "2015"
+    },
+    {
+      "student_name": "Huzaifa, Muhammad",
+      "student_id": "307558",
+      "country": "Tajikistan",
+      "year": "2009"
+    },
+    {
+      "student_name": "Ibrar, Saba",
+      "student_id": "312600",
+      "country": "Philippines",
+      "year": "2010"
+    },
+    {
+      "student_name": "Iftikhar, Zafar",
+      "student_id": "311398",
+      "country": "Georgia",
+      "year": ""
+    },
+    {
+      "student_name": "Irfan, Muhammad",
+      "student_id": "308631",
+      "country": "Qatar",
+      "year": "2015"
+    },
+    {
+      "student_name": "Islam, Khondakar",
+      "student_id": "308570",
+      "country": "Yemen",
+      "year": ""
+    },
+    {
+      "student_name": "Jahanzaib, Muhammad",
+      "student_id": "313785",
+      "country": "Uzbekistan",
+      "year": "2000"
+    },
+    {
+      "student_name": "Jegatheeswaran, Lojana",
+      "student_id": "300115",
+      "country": "China",
+      "year": "2016"
+    },
+    {
+      "student_name": "Khan, Ali Werrad",
+      "student_id": "307653",
+      "country": "Thailand",
+      "year": "2009"
+    },
+    {
+      "student_name": "Khan, MdSazzad",
+      "student_id": "310566",
+      "country": "Jordan",
+      "year": "2004"
+    },
+    {
+      "student_name": "Khizar, Nimra",
+      "student_id": "314062",
+      "country": "Venezuela",
+      "year": ""
+    },
+    {
+      "student_name": "Kola, Iswarya Lahari",
+      "student_id": "314484",
+      "country": "Pakistan",
+      "year": "2003"
+    },
+    {
+      "student_name": "Kolthodi, Mohammed Ameenulla",
+      "student_id": "314065",
+      "country": "Lao",
+      "year": ""
+    },
+    {
+      "student_name": "Kottakkal Murali, Deepak",
+      "student_id": "311496",
+      "country": "Jordan",
+      "year": "2000"
+    },
+    {
+      "student_name": "Madhu, Ajithkumar",
+      "student_id": "300438",
+      "country": "Uzbekistan",
+      "year": "2008"
+    },
+    {
+      "student_name": "Mahbub, Tanzil",
+      "student_id": "306602",
+      "country": "Qatar",
+      "year": "2009"
+    },
+    {
+      "student_name": "Marathe, Onkar Kiran",
+      "student_id": "299604",
+      "country": "Montenegro",
+      "year": "2013"
+    },
+    {
+      "student_name": "Mathanavel, Boomiga",
+      "student_id": "303617",
+      "country": "Nigeria",
+      "year": "2016"
+    },
+    {
+      "student_name": "Matthew, Messiah Jeremiah",
+      "student_id": "300964",
+      "country": "Zambia",
+      "year": "2011"
+    },
+    {
+      "student_name": "Mehta, Vishesh Vipulkumar",
+      "student_id": "297984",
+      "country": "Afghanistan",
+      "year": "2007"
+    },
+    {
+      "student_name": "Mim, Md Minhajul Hayat",
+      "student_id": "299771",
+      "country": "Thailand",
+      "year": "2003"
+    },
+    {
+      "student_name": "Mohammed, Mazed",
+      "student_id": "296972",
+      "country": "Tanzania",
+      "year": "2017"
+    },
+    {
+      "student_name": "Monpara, Gautam Balubhai",
+      "student_id": "307280",
+      "country": "Serbia",
+      "year": "2016"
+    },
+    {
+      "student_name": "Mukhtar, Nuzhat",
+      "student_id": "309511",
+      "country": "Kenya",
+      "year": "2009"
+    },
+    {
+      "student_name": "Munir, Kamran",
+      "student_id": "310901",
+      "country": "Tajikistan",
+      "year": "2003"
+    },
+    {
+      "student_name": "Mushtaq, Sahar",
+      "student_id": "312612",
+      "country": "Croatia",
+      "year": "2009"
+    },
+    {
+      "student_name": "Mustafa, Hanzla",
+      "student_id": "313776",
+      "country": "Mongolia",
+      "year": "2011"
+    },
+    {
+      "student_name": "Naeem, Massab",
+      "student_id": "310893",
+      "country": "Nigeria",
+      "year": "2018"
+    },
+    {
+      "student_name": "Naraharisetti, Maha",
+      "student_id": "307319",
+      "country": "Kazakhstan",
+      "year": "2000"
+    },
+    {
+      "student_name": "Nawaz, Adeel",
+      "student_id": "302961",
+      "country": "Madagascar",
+      "year": ""
+    },
+    {
+      "student_name": "Nawaz, Adil",
+      "student_id": "307981",
+      "country": "Azerbaijan",
+      "year": ""
+    },
+    {
+      "student_name": "Nganga, Dennis",
+      "student_id": "315861",
+      "country": "Kenya",
+      "year": "2005"
+    },
+    {
+      "student_name": "Nonum, Chukwufumnaya",
+      "student_id": "307412",
+      "country": "Maldives",
+      "year": "2014"
+    },
+    {
+      "student_name": "Nvene, Stanley",
+      "student_id": "305351",
+      "country": "Bosnia",
+      "year": ""
+    },
+    {
+      "student_name": "Ofonagoro, Chisom",
+      "student_id": "305100",
+      "country": "Maldives",
+      "year": "2001"
+    },
+    {
+      "student_name": "Okunola, Ebenezer Onaopepo",
+      "student_id": "305069",
+      "country": "Kenya",
+      "year": "2006"
+    },
+    {
+      "student_name": "Olasupo, Abimbola",
+      "student_id": "297371",
+      "country": "Mongolia",
+      "year": "2007"
+    },
+    {
+      "student_name": "Oluwadare, Victor",
+      "student_id": "307208",
+      "country": "Palestine",
+      "year": ""
+    },
+    {
+      "student_name": "Ororho, Maxwell",
+      "student_id": "300966",
+      "country": "Thailand",
+      "year": "2006"
+    },
+    {
+      "student_name": "Patel, Prince Mukeshbhai",
+      "student_id": "309037",
+      "country": "Zambia",
+      "year": "2016"
+    },
+    {
+      "student_name": "Patel, Vrushali Hemant",
+      "student_id": "309347",
+      "country": "Philippines",
+      "year": "2005"
+    },
+    {
+      "student_name": "Pathak, Tamanna",
+      "student_id": "313578",
+      "country": "Kenya",
+      "year": "2001"
+    },
+    {
+      "student_name": "Puja, Shatorupa",
+      "student_id": "310903",
+      "country": "Saudi",
+      "year": ""
+    },
+    {
+      "student_name": "Rahim, Saddam",
+      "student_id": "305481",
+      "country": "Afghanistan",
+      "year": "2004"
+    },
+    {
+      "student_name": "Rahman, Mashrur",
+      "student_id": "308910",
+      "country": "Armenia",
+      "year": "2018/19"
+    },
+    {
+      "student_name": "Ramamurthy, Mohan",
+      "student_id": "304180",
+      "country": "Kazakhstan",
+      "year": "2002"
+    },
+    {
+      "student_name": "Rana, Md Juyel",
+      "student_id": "310443",
+      "country": "Nigeria",
+      "year": "2008/09"
+    },
+    {
+      "student_name": "Raza, Ali",
+      "student_id": "307099",
+      "country": "Lao",
+      "year": ""
+    },
+    {
+      "student_name": "Saeed, Hafiz Muhammad Ahmad",
+      "student_id": "302574",
+      "country": "Sri",
+      "year": ""
+    },
+    {
+      "student_name": "Saha, Bashudev",
+      "student_id": "308373",
+      "country": "Thailand",
+      "year": "2007"
+    },
+    {
+      "student_name": "Sajjad, Muhammad Sajid",
+      "student_id": "309173",
+      "country": "Zimbabwe",
+      "year": ""
+    },
+    {
+      "student_name": "Salako, Olukayode Ademola",
+      "student_id": "308116",
+      "country": "Pakistan",
+      "year": "2003"
+    },
+    {
+      "student_name": "Salako, Oluwapelumi Olaniyi",
+      "student_id": "308216",
+      "country": "Rwanda",
+      "year": ""
+    },
+    {
+      "student_name": "Salve, Yash",
+      "student_id": "308878",
+      "country": "Montenegro",
+      "year": "2009"
+    },
+    {
+      "student_name": "Sathyamoorthy, Tamilvendan",
+      "student_id": "303318",
+      "country": "Kazakhstan",
+      "year": "2003"
+    },
+    {
+      "student_name": "Shah, Sabir",
+      "student_id": "312186",
+      "country": "Jordan",
+      "year": "2011"
+    },
+    {
+      "student_name": "Shaik, Mahaboob Sharief",
+      "student_id": "311259",
+      "country": "Vietnam",
+      "year": "2001"
+    },
+    {
+      "student_name": "Shakeel, Muhammad Talha",
+      "student_id": "310758",
+      "country": "Somalia",
+      "year": "2001"
+    },
+    {
+      "student_name": "Sonker, Aryan",
+      "student_id": "307807",
+      "country": "Uzbekistan",
+      "year": "2006"
+    },
+    {
+      "student_name": "Suthakar, Thanushayan",
+      "student_id": "311722",
+      "country": "Serbia",
+      "year": "2005"
+    },
+    {
+      "student_name": "Tahir, Mohammad Moaz",
+      "student_id": "312505",
+      "country": "Qatar",
+      "year": "2012"
+    },
+    {
+      "student_name": "Talha, Rana Muhammad",
+      "student_id": "310911",
+      "country": "Philippines",
+      "year": "2009"
+    },
+    {
+      "student_name": "Tariq, Tayyaba",
+      "student_id": "310532",
+      "country": "Tajikistan",
+      "year": "2001/02"
+    },
+    {
+      "student_name": "Thankan, Neeraj Kumar",
+      "student_id": "310400",
+      "country": "Ghana",
+      "year": ""
+    },
+    {
+      "student_name": "Thapa Magar, Sony",
+      "student_id": "315353",
+      "country": "Kazakhstan",
+      "year": "2005"
+    },
+    {
+      "student_name": "Thonda, Abhishek",
+      "student_id": "293370",
+      "country": "Mongolia",
+      "year": "2016"
+    },
+    {
+      "student_name": "Titiloye, Dolapo Michael",
+      "student_id": "307203",
+      "country": "Ukraine",
+      "year": "2003"
+    },
+    {
+      "student_name": "Umeh, Chinedu Samuel",
+      "student_id": "300944",
+      "country": "Mongolia",
+      "year": "2003"
+    },
+    {
+      "student_name": "Vootkuri, Vishal Goud",
+      "student_id": "309543",
+      "country": "China",
+      "year": "2013"
+    },
+    {
+      "student_name": "Wijendran, Sharranyan",
+      "student_id": "316070",
+      "country": "Guatemala",
+      "year": ""
+    },
+    {
+      "student_name": "Yanamandala, Lahari",
+      "student_id": "315752",
+      "country": "Armenia",
+      "year": "2009"
+    },
+    {
+      "student_name": "Zaib, Arman",
+      "student_id": "309700",
+      "country": "Namibia",
+      "year": ""
+    }
+  ]
+}

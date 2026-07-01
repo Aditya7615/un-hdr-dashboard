@@ -1,3 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+*.egg
+.venv/
+env/
+
 # Dependencies
 node_modules/
 portfolio-app/node_modules/
@@ -26,5 +35,5 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# OS
-.DS_Store
+# Streamlit
+.streamlit/secrets.toml

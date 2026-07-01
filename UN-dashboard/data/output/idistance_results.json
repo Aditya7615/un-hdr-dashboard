@@ -1,0 +1,226 @@
+{
+  "entity_count": 20,
+  "indicator_count": 7,
+  "indicator_ranking": [
+    "expected_schooling",
+    "unemployment_rate",
+    "HDI_value",
+    "gni_per_capita",
+    "life_expectancy",
+    "flood_risk_score",
+    "population_density"
+  ],
+  "negative_indicators_reoriented": [
+    "unemployment_rate",
+    "flood_risk_score"
+  ],
+  "correlation_matrix": {
+    "HDI_value": {
+      "HDI_value": 1.0,
+      "life_expectancy": -0.5872,
+      "expected_schooling": -0.0349,
+      "gni_per_capita": -0.169,
+      "population_density": 0.2548,
+      "unemployment_rate": 0.1237,
+      "flood_risk_score": 0.1263
+    },
+    "life_expectancy": {
+      "HDI_value": -0.5872,
+      "life_expectancy": 1.0,
+      "expected_schooling": 0.278,
+      "gni_per_capita": 0.3626,
+      "population_density": -0.0565,
+      "unemployment_rate": -0.2378,
+      "flood_risk_score": -0.0057
+    },
+    "expected_schooling": {
+      "HDI_value": -0.0349,
+      "life_expectancy": 0.278,
+      "expected_schooling": 1.0,
+      "gni_per_capita": 0.016,
+      "population_density": 0.0624,
+      "unemployment_rate": -0.181,
+      "flood_risk_score": 0.3485
+    },
+    "gni_per_capita": {
+      "HDI_value": -0.169,
+      "life_expectancy": 0.3626,
+      "expected_schooling": 0.016,
+      "gni_per_capita": 1.0,
+      "population_density": -0.1401,
+      "unemployment_rate": -0.039,
+      "flood_risk_score": -0.0772
+    },
+    "population_density": {
+      "HDI_value": 0.2548,
+      "life_expectancy": -0.0565,
+      "expected_schooling": 0.0624,
+      "gni_per_capita": -0.1401,
+      "population_density": 1.0,
+      "unemployment_rate": 0.1502,
+      "flood_risk_score": -0.1327
+    },
+    "unemployment_rate": {
+      "HDI_value": 0.1237,
+      "life_expectancy": -0.2378,
+      "expected_schooling": -0.181,
+      "gni_per_capita": -0.039,
+      "population_density": 0.1502,
+      "unemployment_rate": 1.0,
+      "flood_risk_score": -0.0887
+    },
+    "flood_risk_score": {
+      "HDI_value": 0.1263,
+      "life_expectancy": -0.0057,
+      "expected_schooling": 0.3485,
+      "gni_per_capita": -0.0772,
+      "population_density": -0.1327,
+      "unemployment_rate": -0.0887,
+      "flood_risk_score": 1.0
+    }
+  },
+  "entity_scores": [
+    {
+      "entity": "Valjevo",
+      "i_distance_raw": 8.698230610140321,
+      "i_distance_normalized": 100.0,
+      "rank": 1
+    },
+    {
+      "entity": "Vranje",
+      "i_distance_raw": 7.549275950614828,
+      "i_distance_normalized": 86.79093816866558,
+      "rank": 2
+    },
+    {
+      "entity": "Smederevo",
+      "i_distance_raw": 7.379829155129103,
+      "i_distance_normalized": 84.84287765980547,
+      "rank": 3
+    },
+    {
+      "entity": "Subotica",
+      "i_distance_raw": 6.895534595515879,
+      "i_distance_normalized": 79.27514117040224,
+      "rank": 4
+    },
+    {
+      "entity": "Novi Sad",
+      "i_distance_raw": 6.671895859105665,
+      "i_distance_normalized": 76.70405807966999,
+      "rank": 5
+    },
+    {
+      "entity": "Zrenjanin",
+      "i_distance_raw": 6.127787071656431,
+      "i_distance_normalized": 70.44866187512562,
+      "rank": 6
+    },
+    {
+      "entity": "Cacak",
+      "i_distance_raw": 5.811995644271365,
+      "i_distance_normalized": 66.81813698404123,
+      "rank": 7
+    },
+    {
+      "entity": "Stari grad",
+      "i_distance_raw": 5.45623254669873,
+      "i_distance_normalized": 62.728074148067556,
+      "rank": 8
+    },
+    {
+      "entity": "Cajetina",
+      "i_distance_raw": 5.424717062028604,
+      "i_distance_normalized": 62.36575350973699,
+      "rank": 9
+    },
+    {
+      "entity": "Leskovac",
+      "i_distance_raw": 5.008652126911881,
+      "i_distance_normalized": 57.582425109226676,
+      "rank": 10
+    },
+    {
+      "entity": "Vracar",
+      "i_distance_raw": 4.842339958044283,
+      "i_distance_normalized": 55.67040212062354,
+      "rank": 11
+    },
+    {
+      "entity": "Uzice",
+      "i_distance_raw": 4.754856005954074,
+      "i_distance_normalized": 54.66463490184894,
+      "rank": 12
+    },
+    {
+      "entity": "Pirot",
+      "i_distance_raw": 4.662144922561469,
+      "i_distance_normalized": 53.59877349223624,
+      "rank": 13
+    },
+    {
+      "entity": "Sombor",
+      "i_distance_raw": 4.485843138005922,
+      "i_distance_normalized": 51.5719039775327,
+      "rank": 14
+    },
+    {
+      "entity": "Kragujevac",
+      "i_distance_raw": 4.466007374002651,
+      "i_distance_normalized": 51.34386031104094,
+      "rank": 15
+    },
+    {
+      "entity": "Krusevac",
+      "i_distance_raw": 4.341852709813692,
+      "i_distance_normalized": 49.91650491252781,
+      "rank": 16
+    },
+    {
+      "entity": "Nis",
+      "i_distance_raw": 4.098901421325968,
+      "i_distance_normalized": 47.12339330883575,
+      "rank": 17
+    },
+    {
+      "entity": "Pancevo",
+      "i_distance_raw": 3.52220019334971,
+      "i_distance_normalized": 40.493295144917866,
+      "rank": 18
+    },
+    {
+      "entity": "Kraljevo",
+      "i_distance_raw": 2.9058019297124678,
+      "i_distance_normalized": 33.406816396945246,
+      "rank": 19
+    },
+    {
+      "entity": "Savski venac",
+      "i_distance_raw": 0.0,
+      "i_distance_normalized": 0.0,
+      "rank": 20
+    }
+  ],
+  "normalized_scores_0_100": {
+    "Valjevo": 100.0,
+    "Vranje": 86.79,
+    "Smederevo": 84.84,
+    "Subotica": 79.28,
+    "Novi Sad": 76.7,
+    "Zrenjanin": 70.45,
+    "Cacak": 66.82,
+    "Stari grad": 62.73,
+    "Cajetina": 62.37,
+    "Leskovac": 57.58,
+    "Vracar": 55.67,
+    "Uzice": 54.66,
+    "Pirot": 53.6,
+    "Sombor": 51.57,
+    "Kragujevac": 51.34,
+    "Krusevac": 49.92,
+    "Nis": 47.12,
+    "Pancevo": 40.49,
+    "Kraljevo": 33.41,
+    "Savski venac": 0.0
+  }
+}

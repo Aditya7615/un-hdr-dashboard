@@ -1,0 +1,234 @@
+{
+  "thematic_scores": {
+    "Education": 13.21,
+    "Health": 5.96,
+    "Inequality": 13.3,
+    "Economy": 23.32,
+    "Gender": 14.77,
+    "Climate": 29.19,
+    "Employment": 0.26
+  },
+  "key_strengths": [
+    "Strong volunteerism culture in disaster response",
+    "Established DRR legal framework",
+    "Community-level cooperation during crises",
+    "Growing awareness of resilience importance"
+  ],
+  "key_challenges": [
+    "Insufficient DRR financial resources",
+    "Weak local capacity for risk planning",
+    "Limited inter-municipal coordination",
+    "Aging infrastructure vulnerability"
+  ],
+  "core_numerical_indicators": {
+    "HDI value": 0.776,
+    "HDI rank": 67,
+    "Life expectancy": 75.6,
+    "Expected years of schooling": 14.6,
+    "Mean years of schooling": 11.2,
+    "GNI per capita": 13500,
+    "Population": 7058000
+  },
+  "time_series_data": [
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2016
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2014,
+      "end_year": 2015
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2014,
+      "end_year": 2015
+    },
+    {
+      "start_year": 1980,
+      "end_year": 1990
+    },
+    {
+      "start_year": 1989,
+      "end_year": 2006
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2001,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2071,
+      "end_year": 2100
+    },
+    {
+      "start_year": 2001,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2071,
+      "end_year": 2100
+    },
+    {
+      "start_year": 2006,
+      "end_year": 2014
+    },
+    {
+      "start_year": 2006,
+      "end_year": 2007
+    },
+    {
+      "start_year": 2001,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2011,
+      "end_year": 2040
+    },
+    {
+      "start_year": 2041,
+      "end_year": 2070
+    },
+    {
+      "start_year": 2071,
+      "end_year": 2100
+    },
+    {
+      "start_year": 1961,
+      "end_year": 1990
+    },
+    {
+      "start_year": 2011,
+      "end_year": 2040
+    },
+    {
+      "start_year": 2041,
+      "end_year": 2070
+    },
+    {
+      "start_year": 2071,
+      "end_year": 2100
+    },
+    {
+      "start_year": 2014,
+      "end_year": 2015
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2016
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2020,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2005,
+      "end_year": 2015
+    },
+    {
+      "start_year": 2020,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2005,
+      "end_year": 2015
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2011,
+      "end_year": 2012
+    },
+    {
+      "start_year": 2014,
+      "end_year": 2015
+    },
+    {
+      "start_year": 2005,
+      "end_year": 2014
+    },
+    {
+      "start_year": 2010,
+      "end_year": 2013
+    },
+    {
+      "start_year": 2011,
+      "end_year": 2013
+    },
+    {
+      "start_year": 2011,
+      "end_year": 2013
+    },
+    {
+      "start_year": 2012,
+      "end_year": 2017
+    },
+    {
+      "start_year": 2014,
+      "end_year": 2024
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2025
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 1999,
+      "end_year": 2009
+    },
+    {
+      "start_year": 2012,
+      "end_year": 2017
+    },
+    {
+      "start_year": 2014,
+      "end_year": 2024
+    },
+    {
+      "start_year": 2001,
+      "end_year": 2030
+    },
+    {
+      "start_year": 2015,
+      "end_year": 2030
+    },
+    {
+      "start_year": 1982,
+      "end_year": 1984
+    }
+  ]
+}
